@@ -1,6 +1,6 @@
 {
-	"name":"Emby圆形图标 @w", 
-	"description":"使用WebP格式，仅收录Emby群组/频道的最新头像作为图标，定期更新和替换旧图标",  
+	"name":"Emby头像图标 @w", 
+	"description":"以圆形图标为主，仅收录Emby群组/频道的最新头像作为图标，定期更新和替换旧图标",  
 	"icons":
 		[
 			{"name":"105", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/105.webp"},
@@ -47,7 +47,8 @@
 			{"name":"Pilipili", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/Pilipili.webp"},
 			{"name":"拼好服", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/pinhaofu.webp"},
 			{"name":"結束バンド", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/plus.webp"},
-			{"name":"Porn", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/Porn.webp"},
+			{"name":"Pornemby", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/Porn.webp"},
+			{"name":"paolu", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/paolu.webp"},
 			{"name":"PrejuDice", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/PrejuDice.webp"},
 			{"name":"琴鸟Lyrebird", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/Lyrebird.webp"},
 			{"name":"起点站", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/tdck.webp"},
@@ -76,6 +77,7 @@
 			{"name":"硬月", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/hardmoon.webp"},
 			{"name":"鸢尾Iris", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/Iris.webp"},
 			{"name":"影迹", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/CineTrail.webp"},
+			{"name":"云海emby", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/oceancloude.webp"},
 			{"name":"YOMO", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/YOMO.webp"},
 			{"name":"Youno", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/Youno.webp"},
 			{"name":"预倒", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/yudao.webp"},
