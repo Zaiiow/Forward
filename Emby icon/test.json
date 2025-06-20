@@ -1,0 +1,9 @@
+{
+	"name":"测试用", 
+	"description":"测试图标",  
+	"icons":
+		[
+			{"name":"User", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/user_WH.png"},
+			{"name":"home", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/home_WH.png"}
+		]
+}
