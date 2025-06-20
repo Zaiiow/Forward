@@ -9,8 +9,8 @@
 			{"name":"AlphaTVX", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/AlphaTVX.webp"},
 			{"name":"Ask", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/Ask.webp"},
 			{"name":"Aurora", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/Aurora.webp"},
-			{"name":"AniSaga", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/AniSaga.webp"},
 			{"name":"ash", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/ash.webp"},
+			{"name":"AniSaga", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/AniSaga.webp"},
 			{"name":"Beebi", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/Beebi.webp"},
 			{"name":"冰镇西瓜", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/melon.webp"},
 			{"name":"CC公益", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/CC.webp"},
@@ -99,5 +99,7 @@
 			{"name":"竹马映画", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/zhuma.webp"},
 			{"name":"纸片人小站", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/embyplus.webp"},
 			{"name":"终点站", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/Terminus.webp"}
+			{"name":"test", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/test.webp"}
+			{"name":"home", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/home.webp"}
 		]
 }
