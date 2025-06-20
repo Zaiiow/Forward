@@ -1,0 +1,26 @@
+{
+	"name":"首页图标", 
+	"description":"简约的白色线条图标，更适合应用于深色模式",  
+	"icons":
+		[
+			{"name":"bilibili", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/bilibili.webp"},
+			{"name":"account", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/account.webp"},
+			{"name":"apple", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/apple.webp"},
+			{"name":"bard", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/bard.webp"},
+			{"name":"clapperboard", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/clapperboard.webp"},
+			{"name":"command", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/command.webp"},
+			{"name":"earth", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/earth.webp"},
+			{"name":"film", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/film.webp"},
+			{"name":"home1", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/home1.webp"},
+			{"name":"home2", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/home2.webp"},
+			{"name":"home3", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/home3.webp"},
+			{"name":"home4", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/home4.webp"},
+			{"name":"movie", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/movie.webp"},
+			{"name":"planet", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/planet.webp"},
+			{"name":"play", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/play.webp"},
+			{"name":"robot", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/robot.webp"},
+			{"name":"smile", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/smile.webp"},
+			{"name":"tv", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/tv.webp"},
+			{"name":"youtube", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/youtube.webp"}
+		]
+}
