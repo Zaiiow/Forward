@@ -1,0 +1,12 @@
+{
+	"name":"测试用", 
+	"description":"测试图标",  
+	"icons":
+		[
+			{"name":"4", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/test/4.webp"},
+			{"name":"1", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/test/1.webp"},
+			{"name":"2", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/test/2.webp"},
+			{"name":"3", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/test/3.webp"},
+			{"name":"5", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/test/5.webp"}
+		]
+}
