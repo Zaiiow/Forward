@@ -4,6 +4,9 @@
 	"icons":
 		[
 			{"name":"User", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/user_WH.png"},
+			{"name":"1", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/1.svg"},
+			{"name":"2", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/2.png"},
+			{"name":"3", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/3.webp"},
 			{"name":"home", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/home_WH.png"}
 		]
 }
