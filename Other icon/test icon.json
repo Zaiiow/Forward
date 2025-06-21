@@ -1,0 +1,16 @@
+{
+	"name":"测试用", 
+	"description":"测试图标",  
+	"icons":
+		[
+			{"name":"1", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/1.webp"},
+			{"name":"2", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/2.webp"},
+			{"name":"3", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/3.webp"},
+			{"name":"4", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/4.webp"},
+			{"name":"5", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/5.webp"},
+			{"name":"6", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/6.webp"},
+			{"name":"7", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/7.webp"},
+			{"name":"8", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/8.webp"},
+			{"name":"9", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/9.webp"}
+		]
+}
