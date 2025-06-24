@@ -1,0 +1,13 @@
+{
+	"name":"测试用", 
+	"description":"测试图标",  
+	"icons":
+		[
+			{"name":"sntp", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/airport%20icon/sntp.webp"},
+			{"name":"69yun", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/airport%20icon/69yun.webp"},
+			{"name":"nutbit", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/airport%20icon/nutbit.webp"},
+			{"name":"peiqian", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/airport%20icon/peiqian.webp"},
+			{"name":"pokemon", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/airport%20icon/pokemon.webp"},
+			{"name":"violet", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/airport%20icon/violet.webp"}
+		]
+}
