@@ -1,6 +1,6 @@
 {
-	"name":"测试用", 
-	"description":"测试图标",  
+	"name":"机场图标", 
+	"description":"自用",  
 	"icons":
 		[
 			{"name":"sntp", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/airport%20icon/sntp.webp"},
