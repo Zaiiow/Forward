@@ -1,6 +1,6 @@
 {
 	"name":"Emby头像图标 @w", 
-	"description":"以圆形图标为主，仅收录Emby群组/频道的最新头像，定期替换旧图标（接受未收录投稿）",  
+	"description":"以圆形图标为主，仅收录Emby群组/频道的最新头像，定期替换旧图标",  
 	"icons":
 		[
 			{"name":"105", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/105.webp"},
@@ -40,6 +40,7 @@
 			{"name":"Lily", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/Lily.webp"},
 			{"name":"蘑菇", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/Mooguu.webp"},
 			{"name":"Misty", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/Misty.webp"},
+			{"name":"Msky", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/Msky.webp"},
 			{"name":"墨云阁", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/moyunge.webp"},
 			{"name":"Nanflix", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/Nanflix.webp"},
 			{"name":"Nebula", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/Nebula.webp"},
