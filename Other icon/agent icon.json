@@ -1,0 +1,14 @@
+{
+	"name":"代理图标", 
+	"description":"机场、策略相关图标",  
+	"icons":
+		[
+			{"name":"emby", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/agent%20icon/emby.png"},
+			{"name":"sntp", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/agent%20icon/sntp.webp"},
+			{"name":"69yun", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/agent%20icon/69yun.webp"},
+			{"name":"nutbit", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/agent%20icon/nutbit.webp"},
+			{"name":"peiqian", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/agent%20icon/peiqian.webp"},
+			{"name":"pokemon", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/agent%20icon/pokemon.webp"},
+			{"name":"violet", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/agent%20icon/violet.webp"}
+		]
+}
