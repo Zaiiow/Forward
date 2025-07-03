@@ -1,12 +1,12 @@
 {
 	"name":"Emby头像图标 @w", 
-	"description":"以圆形图标为主，仅收录Emby群组/频道的最新头像，定期替换旧图标测试 00 kk1",  
+	"description":"以圆形图标为主，仅收录Emby群组/频道的最新头像，定期替换旧图标",  
 	"icons":
 		[
-			{"name":"105", "url":""},
+			{"name":"105", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/105.webp"},
 			{"name":"1111", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/1111.webp"},
-			{"name":"AlphaTV", "url":""},
-			{"name":"AlphaTVX", "url":""},
+			{"name":"AlphaTV", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/AlphaTV.webp"},
+			{"name":"AlphaTVX", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/AlphaTVX.webp"},
 			{"name":"Ask", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/Ask.webp"},
 			{"name":"Aurora", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/Aurora.webp"},
 			{"name":"ash", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Emby%20icon/round%20icon/ash.webp"},
