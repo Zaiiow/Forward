@@ -1,6 +1,6 @@
 {
 	"name":"Emby头像图标 @w", 
-	"description":"以圆形图标为主，仅收录Emby群组/频道的最新头像，定期替换旧图标测试",  
+	"description":"以圆形图标为主，仅收录Emby群组/频道的最新头像，定期替换旧图标测试 kk",  
 	"icons":
 		[
 			{"name":"105", "url":""},
