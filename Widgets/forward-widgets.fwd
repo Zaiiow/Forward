@@ -1,7 +1,7 @@
 {
   "title": "W's Widgets",
   "description": "自用模块合集",
-  "icon": "https://github.com/wyaing/Forward/blob/main/Widgets/icon.webp",
+  "icon": "https://github.com/wyaing/Forward/blob/main/Widgets/icon.png",
   "widgets": [
     {
       "id": "bangumi_charts_tmdb_v3",
