@@ -339,6 +339,8 @@ WidgetMetadata = {
                     { title: "We TV", value: "3732" },
                     { title: "Viu TV", value: "2146" },
                     { title: "红果短剧", value: "8020" },
+                    { title: "国家地理", value: "43" },
+                    { title: "探索频道", value: "64" },
                     { title: "TVB", value: "48" }
                 ]
             },
