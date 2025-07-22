@@ -3,7 +3,6 @@
 	"description":"简约的白色线条图标，适合深色模式使用（UI强迫症友好图标🤣）",  
 	"icons":
 		[
-			{"name":"emby", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/emby.webp"},
 			{"name":"emby1", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/emby1.webp"},
 			{"name":"home1", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/home1.webp"},
 			{"name":"home2", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Page%20icon/line%20icon/home2.webp"},
