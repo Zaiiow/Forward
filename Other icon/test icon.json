@@ -3,14 +3,15 @@
 	"description":"测试图标",  
 	"icons":
 		[
-			{"name":"1", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/1.webp"},
-			{"name":"2", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/2.webp"},
-			{"name":"3", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/3.webp"},
-			{"name":"4", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/4.webp"},
-			{"name":"5", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/5.webp"},
-			{"name":"6", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/6.webp"},
-			{"name":"7", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/7.webp"},
-			{"name":"8", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/8.webp"},
-			{"name":"9", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/9.webp"}
+			{"name":"1", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/1.avif"},
+			{"name":"2", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/2.avif"},
+			{"name":"3", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/3.avif"},
+			{"name":"4", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/4.avif"},
+			{"name":"5", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/5.avif"},
+			{"name":"6", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/6.avif"},
+			{"name":"7", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/7.avif"},
+			{"name":"8", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/8.avif"},
+			{"name":"9", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/9.avif"}
 		]
+
 }
