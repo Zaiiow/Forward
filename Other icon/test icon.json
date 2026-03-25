@@ -3,8 +3,8 @@
 	"description":"测试图标",  
 	"icons":
 		[
-			{"name":"1", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/1.avif"},
-			{"name":"2", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/2.avif"},
+			{"name":"1", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/1.png"},
+			{"name":"2", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/2.png"},
 			{"name":"3", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/3.avif"},
 			{"name":"4", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/4.avif"},
 			{"name":"5", "url":"https://raw.githubusercontent.com/wyaing/Forward/refs/heads/main/Other%20icon/test%20icon/5.avif"},
